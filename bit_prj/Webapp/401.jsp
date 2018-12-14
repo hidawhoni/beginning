@@ -10,7 +10,7 @@
   <link rel="stylesheet" href="/modules/bootstrap/css/bootstrap.min.css">
   <link rel="stylesheet" href="/modules/ionicons/css/ionicons.min.css">
   <link rel="stylesheet" href="/modules/fontawesome/web-fonts-with-css/css/fontawesome-all.min.css">
-
+  
   <link rel="stylesheet" href="/modules/summernote/summernote-lite.css">
   <link rel="stylesheet" href="/modules/flag-icon-css/css/flag-icon.min.css">
   <link rel="stylesheet" href="/css/demo.css">
